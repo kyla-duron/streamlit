@@ -78,7 +78,7 @@ with text_column:
     st.subheader("BRACELET")
     st.write(
         """
-         This bracelet is a handmaid and have a beautiful design, it has any design in a shell and it cost 75 pesos.
+         This bracelet is a handmade and have a beautiful design, it has any design in a shell and it cost 75 pesos.
         """     
         )
     st.markdown("[watch the video...](https://www.facebook.com/100094332801323/posts/pfbid028iGEr7kaXWJL9zyjTZ41n4Z6eM949iDw4wY4UX1G6HqRtssjpqCyLDx69Ja5PMFbl/?app=fbl)")
